@@ -39,11 +39,7 @@ This project involves the thermal modeling of a 10-cell series lithium-ion batte
 - **Temperature variation:** Test the battery at different operating temperatures ranging from 300K to 390K.
 - **MATLAB Implementation:** Utilize MATLAB Simscape for thermal modeling and simulation.
 
-## Project Structure
-- **/images**: Contains all images and diagrams related to the project.
-- **/simulink_model**: MATLAB Simulink files for the battery pack model.
-- **/results**: Output graphs and analysis at different temperatures.
-- **README.md**: This file.
+
 
 ## Requirements
 - MATLAB with Simscape and Simulink
